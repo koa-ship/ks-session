@@ -1,0 +1,21 @@
+{
+  "name": "ks-session",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "session"
+  ],  
+  "dependencies": {
+  },
+  "devDependencies": {
+  },  
+  "scripts": {
+  },
+  "homepage": "https://github.com/koa-ship/ks-session",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koa-ship/ks-session.git"
+  },
+  "license": "MIT"
+}
