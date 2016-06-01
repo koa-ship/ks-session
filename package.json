@@ -1,7 +1,7 @@
 {
   "name": "ks-session",
   "version": "0.0.1",
-  "description": "",
+  "description": "koa-ship session middleware",
   "main": "index.js",
   "keywords": [
     "session"
